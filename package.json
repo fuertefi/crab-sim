@@ -1,0 +1,22 @@
+{
+  "name": "crab-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/v3-periphery": "^1.4.0",
+    "bignumber.js": "^9.0.2",
+    "date-and-time": "^2.3.0",
+    "ethers": "^5.6.2",
+    "fast-csv": "^4.3.6",
+    "human-standard-token-abi": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
